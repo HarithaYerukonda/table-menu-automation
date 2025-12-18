@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+test-logs/
+*.log
+
+# Playwright test results and reports
+playwright-report/
+test-results/
+screenshots/
+
+# TypeScript compiled files
+*.tsbuildinfo
+dist/
+out/
+
+
+
+# MacOS system files
+.DS_Store
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+
