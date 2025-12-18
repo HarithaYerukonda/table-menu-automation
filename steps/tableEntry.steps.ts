@@ -25,7 +25,7 @@
   });
 
   When('the user enters a valid table number', async () => {
-    await tableEntryPage.enterTableNumber('50');
+    await tableEntryPage.enterTableNumber('100');
   });
 
   When('the user clicks the Continue button', async () => {
