@@ -1,0 +1,8 @@
+# Exclude generated reports
+playwright-report/** linguist-generated=true
+test-results/** linguist-generated=true
+
+# Explicitly mark source files
+*.ts linguist-language=TypeScript
+*.feature linguist-language=Gherkin
+
